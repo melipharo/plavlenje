@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Plavlenje: мозг плавится</title>
+    <link>https://plavlenje.me/ru/post/</link>
+    <description>Recent content in Post on Plavlenje: мозг плавится</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 May 2017 14:26:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://plavlenje.me/ru/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Привет, мир!</title>
+      <link>https://plavlenje.me/ru/post/helloworld/</link>
+      <pubDate>Mon, 08 May 2017 14:26:19 +0000</pubDate>
+      
+      <guid>https://plavlenje.me/ru/post/helloworld/</guid>
+      <description>Наконец-то у меня дошли руки до блога, в рамках которого мне хочется описывать все свои странные проекты, плавящие мой мозг. Это DIY и оно может принимать самые разнообразные формы. Если фантазия ограничена инструментами - нужно ещё больше разнообразных инструментов!
+В ролях:
+ Ultimaker 2 clone DIY Lenovo WMR Headset JAS 1113 OWON HDS1021M CHUWI HI10 Plus Ergodox EZ Lumix DMC-G7 Xbox One Elite @me  Охлаждающей жидкости мне две пинты!</description>
+    </item>
+    
+  </channel>
+</rss>
